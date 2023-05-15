@@ -23,7 +23,7 @@ This tool is based upon [Psi](https://github.com/Th30neAnd0nly/Psi) .This is a t
 
 ### How to build Repl.it
 
-[![Run on Repl.it](https://repl.it/badge/github/suman333mondal/CameraHackingBot)](https://repl.it/github/suman333mondal/CameraHackingBot)
+[![Run on Repl.it](https://repl.it/badge/github.com/Abhinav-Bishnoi/Camera)](https://repl.it/github.com/Abhinav-Bishnoi/Camera)
  
  <p><br></p>
  
